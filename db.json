@@ -1,0 +1,36 @@
+{
+  "student": [
+    {
+      "Student Name": "Rahul kumar",
+      "Father Name": "Mr.Hari kumar",
+      "id": 1001
+    },
+    {
+      "Student Name": "Deepak Singh",
+      "Father Name": "Mr.Sohail Singh",
+      "id": 1002
+    },
+    {
+      "Student Name": "Roshan Singh",
+      "Father Name": "Mr.Saurav Singh",
+      "id": 1003
+    },
+    {
+      "Student Name": "Mukesh Rao",
+      "Father Name": "Mr.Shubah Rao",
+      "id": 1004
+    },
+    {
+      "Student Name": "Rohan Singh",
+      "Father Name": "Mr.Mohit Singh",
+      "id": 1005
+    },
+    {
+      "studentName": "",
+      "fatherName": "",
+      "Student Name": "Jai Singhaniya",
+      "Father Name": "Mr. Veer Singhaniya",
+      "id": 1006
+    }
+  ]
+}
